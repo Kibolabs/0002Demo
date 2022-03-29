@@ -1,0 +1,1 @@
+print('My students are geniuses')
